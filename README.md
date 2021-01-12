@@ -1,4 +1,3 @@
-# Gmlytics
 > # Apply the lm() function
 > relation <- lm(Score~Hour)
 > 
